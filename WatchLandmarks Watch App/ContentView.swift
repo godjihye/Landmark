@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  Landmarks
+//  WatchLandmarks Watch App
 //
-//  Created by 신지혜 on 6/11/24.
+//  Created by 신지혜 on 6/13/24.
 //
 
 import SwiftUI
